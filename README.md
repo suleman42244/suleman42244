@@ -6,7 +6,7 @@
 
  ---
 
- ### 🧰Languages and Tools
+ ### 🧰 Languages and Tools
 
 <img align="left" alt="vsCode" width="30px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -15,8 +15,12 @@
 <img align="left" alt="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<i align="left" alt="gihub" width="30px" style="padding-right: 10px" class="devicon-github-original"></i>
-          
+
+#
+
+### 📊 Stats
+
+![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleman42244&show_icons=true&theme=gruvbox)
           
           
 
