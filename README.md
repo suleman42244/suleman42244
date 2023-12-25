@@ -7,7 +7,8 @@
  ---
 
  ### 🧰 Languages and Tools
-<div>
+
+
 <img align="left" alt="vsCode" width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -15,7 +16,7 @@
 <img align="left" alt="React" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="Tailwind" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div>
+
 
 #
 
