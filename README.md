@@ -2,7 +2,7 @@
 
 **`Front-end Developer`**
 
- I'm a dedicated React developer with a knack for turning ideas into beautifully responsive and user-friendly web applications. Proficient in building dynamic and interactive user interfaces using the React library. I leverage component-based architecture to create scalable and maintainable applications. With a strong foundation in HTML, CSS, and JavaScript, I bring a wealth of expertise to the table, ensuring seamless user experiences and robust front-end solutions.
+ I'm a dedicated React developer with a knack for turning ideas into beautifully responsive and user-friendly web applications. Proficient in building dynamic and interactive user interfaces using the React library. I leverage component-based architecture to create scalable and maintainable applications. Mastery in crafting clean, semantic HTML and leveraging the power of JavaScript to enhance user interactions. I strive to create code that is not only functional but also optimized for performance. With a strong foundation in HTML, CSS, and JavaScript, I bring a wealth of expertise to the table, ensuring seamless user experiences and robust front-end solutions.
 <!--
 **suleman42244/suleman42244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
